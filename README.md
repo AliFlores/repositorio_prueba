@@ -4,7 +4,7 @@
 
 # TP0
 
-## Repositorio de (Nombre Apellido) - (Padrón) - (Mail)
+## Repositorio de (Ali Flores) - (106238) - (Mail)
 
 - Para compilar:
 
